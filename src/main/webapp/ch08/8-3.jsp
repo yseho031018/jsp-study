@@ -6,5 +6,5 @@
     cookie.setMaxAge(0);
     response.addCookie(cookie);
 
-    response.sendRedirect("8-1.jsp");   // 로그인 메인 화면으로 돌아감
+    response.sendRedirect("8-1.jsp");
 %>
