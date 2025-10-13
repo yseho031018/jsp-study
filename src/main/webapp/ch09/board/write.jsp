@@ -18,19 +18,20 @@
     <table>
         <tr>
             <th>제목</th>
-            <td><input type="text" name="title"  maxlength="80"
-                       value="">
+            <td>
+                <input type="text" name="title"  maxlength="80" value="">
             </td>
         </tr>
         <tr>
             <th>작성자</th>
-            <td><input type="text" name="writer" maxlength="20"
-                       value="">
+            <td>
+                <input type="text" name="writer" maxlength="20" value="">
             </td>
         </tr>
         <tr>
             <th>내용</th>
-            <td><textarea name="content" rows="10"></textarea>
+            <td>
+                <textarea name="content" rows="10"></textarea>
             </td>
         </tr>
     </table>
